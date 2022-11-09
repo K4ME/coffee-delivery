@@ -5,3 +5,14 @@
 # Layout
 
     https://www.figma.com/file/B2PjQ5cLi7Ka2PFfkCbA48/Coffee-Delivery-(Copy)?node-id=0%3A1
+
+## TODO
+
+    [] Importar font correta pro projeto
+    [] Mapear cores para uso global no projeto
+    [] Criar a tela principal
+        [] Arrumar as cores do icones da tela main
+        [] Criar componente para listar os cafés
+        [] Criar componente card para mostrar os cafés
+    [] Criar tela de pagamento
+    [] Criar tela de pedido confirmado
